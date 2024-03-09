@@ -22,6 +22,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+# www.whois.com:
+![image](https://github.com/SVENGADAKRISHNAN/InformationGathering/assets/147473084/a111dcb9-790f-4fc3-acd2-328abb4007f5)
 
 
 ## RESULT:
